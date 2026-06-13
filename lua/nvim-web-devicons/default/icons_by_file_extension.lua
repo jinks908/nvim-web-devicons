@@ -364,7 +364,7 @@ return {
   ["scala"]          = { icon = "", color = "#CC3E44", cterm_color = "167", name = "Scala"                      },
   ["scm"]            = { icon = "󰘧", color = "#EEEEEE", cterm_color = "255", name = "Scheme"                     },
   ["scss"]           = { icon = "", color = "#F55385", cterm_color = "204", name = "Scss"                       },
-  ["sh"]             = { icon = "", color = "#4D5A5E", cterm_color = "240", name = "Sh"                         },
+  ["sh"]             = { icon = "", color = "#89E051", cterm_color = "240", name = "Sh"                         },
   ["sha1"]           = { icon = "󰕥", color = "#8C86AF", cterm_color = "103", name = "Sha1"                       },
   ["sha224"]         = { icon = "󰕥", color = "#8C86AF", cterm_color = "103", name = "Sha224"                     },
   ["sha256"]         = { icon = "󰕥", color = "#8C86AF", cterm_color = "103", name = "Sha256"                     },
