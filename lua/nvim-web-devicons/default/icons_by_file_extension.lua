@@ -354,7 +354,7 @@ return {
   ["rlib"]           = { icon = "", color = "#DEA584", cterm_color = "216", name = "Rlib"                       },
   ["rmd"]            = { icon = "", color = "#519ABA", cterm_color = "74",  name = "Rmd"                        },
   ["rproj"]          = { icon = "󰗆", color = "#358A5B", cterm_color = "29",  name = "Rproj"                      },
-  ["rs"]             = { icon = "", color = "#DEA584", cterm_color = "216", name = "Rs"                         },
+  ["rs"]             = { icon = "", color = "#ff875f", cterm_color = "216", name = "Rs"                         },
   ["rss"]            = { icon = "", color = "#FB9D3B", cterm_color = "215", name = "Rss"                        },
   ["s"]              = { icon = "", color = "#0071C5", cterm_color = "25",  name = "ASM"                        },
   ["sass"]           = { icon = "", color = "#F55385", cterm_color = "204", name = "Sass"                       },
